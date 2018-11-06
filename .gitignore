@@ -1,0 +1,15 @@
+## IDEA
+/.idea/
+
+## GOLANG
+/vendor/
+vendor.tar.gz
+target
+gin-bin
+.graphdb-presentation.yml
+
+
+## Project
+.tmp/
+*.zip
+*.exe
